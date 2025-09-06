@@ -1,1 +1,3 @@
-# doxsint
+# doxsint 
+by @XyzFalll @Versensaspace
+# mengecek apakah data diri bocor...
